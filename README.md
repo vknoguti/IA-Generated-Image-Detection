@@ -20,7 +20,7 @@ Certifique-se de instalar as dependências do projeto e, após isso, execute o p
 - **Treinamento do modelo:** Treinamento com otimização, cálculo de métricas e visualização de resultados.
 - **Métricas:** Geração e exibição de matriz de confusão para avaliar a precisão das previsões.
 
-## Amostra do Dataset utilizado no treinamento
+## Dataset utilizado no treinamento
 ![3a36ce9f-89d4-4d45-a947-0c84cf6a6e6b](https://github.com/user-attachments/assets/5cdc9676-a368-458a-8077-ca30df98a41a)
 
 ## Resultados
